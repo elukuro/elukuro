@@ -10,6 +10,7 @@ I love to run, read book and watch anime 🦁
   - Data science
   - Machine Learning
   - Typescript
+  - Typing with 10 fingers (target > 90 WPM)
   
   
 👯 I’m looking to collaborate on
@@ -19,3 +20,4 @@ I love to run, read book and watch anime 🦁
 📫 How to reach me:
   - site: [goheru](http://goheru.com)
   - dev.to : [elukuro](https://dev.to/elukuro)
+  - twitter : [heru_hartanto](https://twitter.com/heru_hartanto)
