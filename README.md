@@ -11,6 +11,7 @@ I love to run, read book and watch anime 🦁
   - Machine Learning
   - Typescript
   - Typing with 10 fingers (target > 90 WPM)
+  - stateless React
     
   
 📫 How to reach me:
