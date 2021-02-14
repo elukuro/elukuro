@@ -11,11 +11,7 @@ I love to run, read book and watch anime 🦁
   - Machine Learning
   - Typescript
   - Typing with 10 fingers (target > 90 WPM)
-  
-  
-👯 I’m looking to collaborate on
-  - open source project
-  
+    
   
 📫 How to reach me:
   - site: [goheru](http://goheru.com)
