@@ -1,6 +1,6 @@
 ### Heru Hartanto 👋
 
-Web developer for several years, has experience with small startup to multinational company, for the last three years I'm working for e-commerce industry as frontend developer
+Web developer for several years, for the last three years I have been working for e-commerce industry as frontend developer, occasionaly write tutorial or tips article at [dev.to](https://dev.to/elukuro)
 
 I love to run, read book and watch anime 🦁
 
@@ -11,10 +11,9 @@ I love to run, read book and watch anime 🦁
   - Machine Learning
   - Typescript
   - Typing with 10 fingers (target > 90 WPM)
-  - stateless React
+  - Stateless React
     
   
 📫 How to reach me:
-  - site: [goheru](http://goheru.com)
-  - dev.to : [elukuro](https://dev.to/elukuro)
+  - 
   - twitter : [heru_hartanto](https://twitter.com/heru_hartanto)
