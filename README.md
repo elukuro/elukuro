@@ -14,6 +14,5 @@ I love to run, read book and watch anime 🦁
   - Stateless React
     
   
-📫 How to reach me:
-  - 
+📫 How to reach me
   - twitter : [heru_hartanto](https://twitter.com/heru_hartanto)
