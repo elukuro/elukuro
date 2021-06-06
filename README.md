@@ -1,13 +1,11 @@
-### Heru Hartanto 👋
+### Hi I'm Heru👋
 
-For the last three years I've been working at e-commerce industry as frontend developer, occasionaly write tutorial or tips article at [dev.to](https://dev.to/elukuro)
-
-I love to run, read book and watch anime 🦁
+I've been working as frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro)
 
   
-🌱 I’m currently learning 
-  - Python
-  - Data science
+🌱 I’m currently learning
+  - Python 
+  - Data science 
   - Machine Learning
   - Typescript
   - Typing with 10 fingers (target > 90 WPM)
