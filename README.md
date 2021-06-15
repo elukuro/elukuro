@@ -5,9 +5,8 @@ I've been working as frontend developer, occasionaly write article at [dev.to](h
   
 🌱 I’m currently learning
   - Python 
-  - Data science 
+  - Data science (Pandas)
   - Machine Learning
-  - Typescript
   - Typing with 10 fingers (target > 90 WPM)
   - Stateless React ✅
     
