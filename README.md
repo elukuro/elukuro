@@ -4,7 +4,7 @@ I've been working as frontend developer, occasionaly write article at [dev.to](h
 
   
 🌱 I’m currently learning
-  - Python 
+  - Python ✅
   - Data science (Pandas)
   - Machine Learning
   - Typing with 10 fingers (target > 90 WPM)
