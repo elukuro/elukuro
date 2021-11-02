@@ -1,10 +1,10 @@
 ### Hi I'm Heru👋
 
-I've been working as frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro)
+Frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro)
 
   
 🌱 I’m currently learning
-  - Python ✅
+  - Basic Python ✅
   - Data science (Pandas)
   - Machine Learning
   - Typing with 10 fingers (target > 90 WPM)
