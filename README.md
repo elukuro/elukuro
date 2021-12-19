@@ -9,6 +9,7 @@ Frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro
   - Machine Learning
   - Typing with 10 fingers (target > 90 WPM)
   - Stateless React ✅
+  - React native
     
   
 📫 How to reach me
