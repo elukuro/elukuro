@@ -3,13 +3,12 @@
 Frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro)
 
   
-🌱 I’m currently learning
-  - Basic Python ✅
+🌱 I’m currently learning (2022)
+  - Python 
   - Data science (Pandas)
   - Machine Learning
-  - Typing with 10 fingers (target > 90 WPM)
-  - Stateless React ✅
-  - React native
+  - React Native 🙇🏻
+  - TypeScript 
     
   
 📫 How to reach me
