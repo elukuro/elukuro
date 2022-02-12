@@ -7,9 +7,8 @@ Frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro
   - Python 
   - Data science (Pandas)
   - Machine Learning
-  - React Native 🙇🏻
+  - React Native ✅
   - TypeScript 
     
   
-📫 How to reach me
-  - twitter : [heru_hartanto](https://twitter.com/heru_hartanto)
+📫 How to reach me [heru_hartanto](https://twitter.com/heru_hartanto)
