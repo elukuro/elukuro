@@ -11,4 +11,4 @@ Frontend developer, occasionaly write article at [dev.to](https://dev.to/elukuro
   - TypeScript 
     
   
-📫 How to reach me [heru_hartanto](https://twitter.com/heru_hartanto)
+📫 How to reach me [goheru_](https://twitter.com/goheru_)
