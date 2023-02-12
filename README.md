@@ -9,4 +9,4 @@ Frontend developer, occasionaly write article in [dev.to](https://dev.to/elukuro
 - Typescript
     
   
-📫 How to reach me [goheru_](https://twitter.com/goheru_)
+📫 You can reach my twitter [goheru_](https://twitter.com/goheru_)
