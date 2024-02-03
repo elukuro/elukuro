@@ -1,12 +1,12 @@
 ### Hi I'm Heru👋
 
-Frontend developer, occasionaly write article in [dev.to](https://dev.to/elukuro)
+Frontend developer based in Jakarta, occasionaly write article in [dev.to](https://dev.to/elukuro)
 
   
-🌱 What I want to learn in (2023)
-- Flutter
-- Vue 3.0 
+🌱 What Interest me in (2024)
 - Typescript
+- Flutter
+- Japanese Language (Duolingo)
     
   
 📫 You can reach my twitter [goheru_](https://twitter.com/goheru_)
